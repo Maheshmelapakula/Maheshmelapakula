@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umamahesh</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
+<img align="right" alt="coding" width="400" sre="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshmelapakula&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmelapakula" /> </p>
 
